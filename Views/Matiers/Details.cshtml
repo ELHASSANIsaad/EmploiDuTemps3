@@ -1,0 +1,48 @@
+﻿@model EmploiDuTemps.Models.Matier
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Matier</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.nameId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.nameId)
+        </dd>
+       @* <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.volumHoraireH)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.volumHoraireH)
+        </dd>*@
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.volumHoraireHs)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.volumHoraireHs)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.type)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.type)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Fillier)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Fillier.NameId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.nameId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,36 @@
+﻿@model EmploiDuTemps.Models.ClasseMatierProf
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>ClasseMatierProf</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.classe)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.classe)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.matier)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.matier)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.prof)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.prof)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.nameId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

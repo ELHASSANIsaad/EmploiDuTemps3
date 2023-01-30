@@ -1,0 +1,53 @@
+﻿@model IEnumerable<EmploiDuTemps.Models.Matier>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Liste des Matiers</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.nameId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.volumHoraireHs)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fillier)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nameId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.volumHoraireHs)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fillier.NameId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.nameId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.nameId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.nameId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

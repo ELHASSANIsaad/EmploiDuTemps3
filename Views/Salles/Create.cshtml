@@ -1,0 +1,53 @@
+﻿@model EmploiDuTemps.Models.Salle
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Creation de salle</h1>
+
+<h4>Salle</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="nameId" class="control-label"></label>
+                <input asp-for="nameId" class="form-control" />
+                <span asp-validation-for="nameId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="capacite" class="control-label"></label>
+                <input asp-for="capacite" class="form-control" />
+                <span asp-validation-for="capacite" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="description" class="control-label"></label>
+                <input asp-for="description" class="form-control" />
+                <span asp-validation-for="description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="type" class="control-label"></label>
+                <input asp-for="type" class="form-control" />
+                <span asp-validation-for="type" class="text-danger"></span>
+            </div>
+            @*<div class="form-group">
+                <label asp-for="hasEmploi" class="control-label"></label>
+                <input asp-for="hasEmploi" class="form-control" />
+                <span asp-validation-for="hasEmploi" class="text-danger"></span>
+            </div>*@
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

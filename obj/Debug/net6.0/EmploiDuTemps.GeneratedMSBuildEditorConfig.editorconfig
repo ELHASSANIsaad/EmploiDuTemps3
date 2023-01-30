@@ -1,0 +1,304 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EmploiDuTemps
+build_property.RootNamespace = EmploiDuTemps
+build_property.ProjectDir = C:\Users\Toshiba\Desktop\DP_Projects\EmploiDuTemps\EmploiDuTemps\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Toshiba\Desktop\DP_Projects\EmploiDuTemps\EmploiDuTemps
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/ClasseEmplois/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NlRW1wbG9pc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/ClasseEmplois/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NlRW1wbG9pc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/ClasseEmplois/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NlRW1wbG9pc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/ClasseEmplois/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NlRW1wbG9pc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/ClasseEmplois/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NlRW1wbG9pc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/ClasseMatierProfs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NlTWF0aWVyUHJvZnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/ClasseMatierProfs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NlTWF0aWVyUHJvZnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/ClasseMatierProfs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NlTWF0aWVyUHJvZnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/ClasseMatierProfs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NlTWF0aWVyUHJvZnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/ClasseMatierProfs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NlTWF0aWVyUHJvZnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Classes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3Nlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Classes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3Nlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Classes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3Nlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Classes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3Nlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Classes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3Nlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/EmploiClasses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG9pQ2xhc3Nlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/EmploiClasses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG9pQ2xhc3Nlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/EmploiClasses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG9pQ2xhc3Nlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/EmploiClasses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG9pQ2xhc3Nlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/EmploiClasses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG9pQ2xhc3Nlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/EmploiProfs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG9pUHJvZnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/EmploiProfs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG9pUHJvZnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/EmploiProfs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG9pUHJvZnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/EmploiProfs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG9pUHJvZnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/EmploiProfs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG9pUHJvZnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/EmploiSalles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG9pU2FsbGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/EmploiSalles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG9pU2FsbGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/EmploiSalles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG9pU2FsbGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/EmploiSalles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG9pU2FsbGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/EmploiSalles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG9pU2FsbGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Etudiants/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXR1ZGlhbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Etudiants/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXR1ZGlhbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Etudiants/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXR1ZGlhbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Etudiants/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXR1ZGlhbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Etudiants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXR1ZGlhbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Filliers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbGllcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Filliers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbGllcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Filliers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbGllcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Filliers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbGllcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Filliers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbGllcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Matiers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0aWVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Matiers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0aWVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Matiers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0aWVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Matiers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0aWVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Matiers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0aWVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/ProfEmplois/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZkVtcGxvaXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/ProfEmplois/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZkVtcGxvaXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/ProfEmplois/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZkVtcGxvaXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/ProfEmplois/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZkVtcGxvaXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/ProfEmplois/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZkVtcGxvaXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Profs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Profs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Profs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Profs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Profs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/SalleEmplois/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsbGVFbXBsb2lzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/SalleEmplois/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsbGVFbXBsb2lzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/SalleEmplois/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsbGVFbXBsb2lzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/SalleEmplois/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsbGVFbXBsb2lzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/SalleEmplois/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsbGVFbXBsb2lzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Salles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsbGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Salles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsbGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Salles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsbGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Salles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsbGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Salles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsbGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/DP_Projects/EmploiDuTemps/EmploiDuTemps/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zyo2h9y5aa
